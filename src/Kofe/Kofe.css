@@ -1,0 +1,9 @@
+.list-product {
+    display: inline-block;
+    margin-left: 0;
+}
+
+.product {
+    list-style: none;
+    margin-left: 0;
+}
